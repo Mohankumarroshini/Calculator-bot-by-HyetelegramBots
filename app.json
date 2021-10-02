@@ -1,0 +1,26 @@
+{
+    "name": "Calculator-bot-by-HyetelegramBots",
+    "description": "A telegram calculator bot",
+    "repository": "https://github.com/iamgoingtomake/Calculator-bot-by-HyetelegramBots",
+    "keywords": [
+        "calculator",
+        "telegram bot",
+        "HyetelegramBots"
+    ],
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your Bot token from @Botfather"
+        },
+        "API_ID": {
+            "description": "Your API_ID from https://my.telegram.org/apps Do Not Steal "
+        },
+        "API_HASH": {
+            "description": "Your API_HASH from https://my.telegram.org/apps"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
