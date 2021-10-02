@@ -22,7 +22,7 @@ License -> https://github.com/Iamgoingtomake/Calculator-bot-by-HyetelegramBots/b
 <br>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/Calculator-Bot/tree/main">
+  <a href="[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)>
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
