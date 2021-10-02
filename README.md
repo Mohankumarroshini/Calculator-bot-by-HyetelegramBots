@@ -15,35 +15,18 @@ License -> https://github.com/Iamgoingtomake/Calculator-bot-by-HyetelegramBots/b
 
 ---
 
-## Deploy 
+## Deploying to Heroku
 
-<details>
-  <summary><b>Deploy on Heroku</b></summary>
-<br>
-
-<p align="left">
-  <a href="[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)>
-     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
-  </a>
-</p>
-
-</details>
-
-<details>
-  <summary><b>Deploy in your vps</b></summary>
-<br>
-
-```sh
-git clone https://github.com/FayasNoushad/Calculator-Bot/tree/main
-cd Calculator-Bot
-pip3 install -r requirements.txt
-# <Create Variables appropriately>
-python3 main.py
 ```
+$ heroku create
+$ git push heroku main
+$ heroku open
+```
+or
 
-</details>
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
----
+
 
 ## Variables
 
