@@ -14,7 +14,6 @@ License -> https://github.com/Iamgoingtomake/Calculator-bot-by-HyetelegramBots/b
 ```
 
 ---
-
 ## Deploying to Heroku
 
 ```
