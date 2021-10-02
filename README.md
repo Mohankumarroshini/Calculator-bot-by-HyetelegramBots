@@ -10,7 +10,7 @@ A calculator telegram bot.
 Made with Python3
 (C) @Hyetelegram
 Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/Calculator-Bot/blob/main/LICENSE
+License -> https://github.com/Iamgoingtomake/Calculator-bot-by-HyetelegramBots/blob/main/LICENSE
 ```
 
 ---
