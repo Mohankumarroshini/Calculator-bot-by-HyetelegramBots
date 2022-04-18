@@ -30,7 +30,7 @@ START_TEXT = """
 
 Hello {}, I am a simple calculator telegram bot. Send me /calculator.
 
-Made by @Hyetelegram
+Made by @TamilBots 
 
 """
 
@@ -38,13 +38,13 @@ START_BUTTONS = InlineKeyboardMarkup(
 
         [[
 
-        InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://telegram.me/HyetelegramBots')
+        InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://telegram.me/TamilBots')
 
         ]]
 
     )
 
-CALCULATE_TEXT = "Made by @Hyetelegram"
+CALCULATE_TEXT = "Made by @TamilBots"
 
 CALCULATE_BUTTONS = InlineKeyboardMarkup(
 
