@@ -28,12 +28,12 @@ Bot = Client(
 
 START_TEXT = """
 
-* ʜᴇʟʟᴏ {}, ɪ ᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴄᴀʟᴄᴜʟᴀᴛᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ [🤖](https://telegra.ph/file/ce4fa9c519495a18ac6ab.jpg) * . sᴇɴᴅ ᴍᴇ /calculator.
+ʜᴇʟʟᴏ {}, ɪ ᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴄᴀʟᴄᴜʟᴀᴛᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ🤖. sᴇɴᴅ ᴍᴇ /calculator.
 
 ᴍᴀᴅᴇ ʙʏ @TamilBots 
 
 """
-
+START_IMAGE = """ [https://telegra.ph/file/ce4fa9c519495a18ac6ab.jpg] """
 START_BUTTONS = InlineKeyboardMarkup(
 
         [[
