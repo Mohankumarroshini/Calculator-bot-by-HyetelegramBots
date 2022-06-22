@@ -28,9 +28,9 @@ Bot = Client(
 
 START_TEXT = """
 
-Hello {}, I am a simple calculator telegram bot. Send me /calculator.
+ʜᴇʟʟᴏ {}, ɪ ᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴄᴀʟᴄᴜʟᴀᴛᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ[🤖](https://telegra.ph/file/e74f06847fc777f55646f.jpg). sᴇɴᴅ ᴍᴇ /calculator.
 
-Made by @TamilBots 
+ᴍᴀᴅᴇ ʙʏ @TamilBots 
 
 """
 
@@ -38,13 +38,13 @@ START_BUTTONS = InlineKeyboardMarkup(
 
         [[
 
-        InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://telegram.me/TamilBots')
+        InlineKeyboardButton('⚙ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ⚙', url='https://telegram.me/TamilBots')
 
         ]]
 
     )
 
-CALCULATE_TEXT = "Made by @TamilBots"
+CALCULATE_TEXT = "ᴍᴀᴅᴇ ʙʏ @TamilBots"
 
 CALCULATE_BUTTONS = InlineKeyboardMarkup(
 
